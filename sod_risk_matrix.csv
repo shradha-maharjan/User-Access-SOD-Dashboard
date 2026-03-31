@@ -1,0 +1,5 @@
+Conflict_ID,Permission_A,Permission_B,Risk_Level,Description
+C01,Create_Vendor,Approve_Payment,High,Vendor/Payment Conflict
+C02,Dev_Access,Prod_Deploy,High,Dev/Prod Conflict
+C03,Modify_Payroll,Create_Paycheck,High,Payroll Conflict
+C04,Edit_Inventory,Approve_PO,Medium,Inventory Conflict
