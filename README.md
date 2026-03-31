@@ -1,4 +1,3 @@
-# IAM Audit & Risk Analytics Dashboard (Power BI Project)
 
 ## Project Overview
 This project simulates a real-world IT Audit for Identity & Access Management (IAM) in a financial/enterprise system.
@@ -33,7 +32,7 @@ The primary goals of this project are:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool        | Purpose |
 |-------------|--------|
