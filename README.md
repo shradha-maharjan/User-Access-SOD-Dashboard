@@ -163,4 +163,4 @@ The primary goals of this project are:
 
 ## Power BI Dashboard
 
-<img width="572" height="321" alt="image" src="https://github.com/user-attachments/assets/18ce93e2-5adb-4185-bf51-94239d78654d" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/18ce93e2-5adb-4185-bf51-94239d78654d" />
