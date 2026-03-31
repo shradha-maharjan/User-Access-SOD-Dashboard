@@ -99,11 +99,7 @@ The primary goals of this project are:
 
 ---
 
-## Dashboard Preview
 
-![Dashboard](./dashboard.png)
-
----
 
 ## Key Insights
 
@@ -166,8 +162,6 @@ The primary goals of this project are:
 
 ---
 
-## Reference
-
-Project design and logic based on IAM audit principles and SoD analysis. :contentReference[oaicite:0]{index=0}
+## Power BI Dashboard
 
 <img width="572" height="321" alt="image" src="https://github.com/user-attachments/assets/18ce93e2-5adb-4185-bf51-94239d78654d" />
